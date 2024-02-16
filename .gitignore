@@ -1,0 +1,7 @@
+# FRONTEND
+frontend/node_modules
+
+
+
+# BACKEND
+backend/db.sqlite3
